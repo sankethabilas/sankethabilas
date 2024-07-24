@@ -28,4 +28,4 @@
 ![preccrep GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=preccrep&show_icons=true&theme=radical)
 ![preccrep GitHub stats](https://github-readme-stats.vercel.app/api?username=preccrep&show_icons=true&theme=tokyonight)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hey+I'm+preccrep!;I'm+a+CS+student.;I+love+coding.;A+big+fan+of+anime...)](https://git.io/typing-svg)
+
