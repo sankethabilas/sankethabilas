@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/sanketh_abilas" target="blank"><img src="https://img.shields.io/twitter/follow/sanketh_abilas?logo=twitter&style=for-the-badge" alt="sanketh_abilas" /></a> </p>
 
+- 👦🏻 I'm 23 years old
+
 - 🌱 I’m currently learning **PHP JavaScript**
 
 - 📫 How to reach me **sankethmarasingha@gmail.com**
+
+- 🌱 I’m currently reading Softwere Engineering Degree at SLIIT
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +31,14 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sankethabilas" />
 </a>
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
 
 
 
